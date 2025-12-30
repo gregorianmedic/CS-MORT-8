@@ -84,7 +84,7 @@ This analysis uses two credentialed-access databases from PhysioNet:
 
 ```bash
 # Clone the repository
-git clone https://github.com/[username]/CS-MORT-8.git
+git clone https://github.com/gregorianmedic/CS-MORT-8.git
 cd CS-MORT-8
 
 # Create virtual environment
